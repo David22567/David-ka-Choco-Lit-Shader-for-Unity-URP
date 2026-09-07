@@ -86,19 +86,3 @@ This makes it possible to create animated and dynamic surface effects.
 - Unity
 - Universal Render Pipeline (URP)
 
-## 📦 Installation
-
-1. Clone or download this repository.
-2. Open the project using Unity with URP installed.
-3. Locate the custom shader.
-4. Create a new Material.
-5. Select the custom URP Lit Shader.
-6. Enable the features you need.
-7. Adjust the material properties to create your desired effect.
-
-## 📁 Example Shader
-
-The shader can be found under:
-
-```text
-Custom/URP/David's Custom Lit Shader
